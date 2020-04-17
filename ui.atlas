@@ -1,0 +1,41 @@
+
+ui.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backBtn
+  rotate: false
+  xy: 1048, 2
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+deadline
+  rotate: false
+  xy: 2, 23
+  size: 640, 160
+  orig: 640, 160
+  offset: 0, 0
+  index: -1
+gender-girl
+  rotate: false
+  xy: 846, 2
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+gender-header
+  rotate: false
+  xy: 644, 124
+  size: 685, 59
+  orig: 685, 59
+  offset: 0, 0
+  index: -1
+gender-man
+  rotate: false
+  xy: 644, 2
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
